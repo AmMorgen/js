@@ -1,0 +1,1 @@
+Ficar atento que da pra converter base com parseInt e radix
