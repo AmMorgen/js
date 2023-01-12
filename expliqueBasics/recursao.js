@@ -1,5 +1,4 @@
 //conta de um até n
-
 function countup(n) {
     if (n < 1) {
       return [];
